@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1697383630,,"wq"
+|2,0,1697384113,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,45 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/0-setup_web_static.sh
-|4,48,1,0,1697383630,"~/0-setup_web_static.sh"
-'1  44  27  ~/0-setup_web_static.sh
-|4,49,44,27,1697379976,"~/0-setup_web_static.sh"
+'0  23  14  ~/1-pack_web_static.py
+|4,48,23,14,1697384113,"~/1-pack_web_static.py"
+'1  1  0  ~/0-setup_web_static.sh
+|4,49,1,0,1697383630,"~/0-setup_web_static.sh"
 '2  44  27  ~/0-setup_web_static.sh
 |4,50,44,27,1697379976,"~/0-setup_web_static.sh"
+'3  44  27  ~/0-setup_web_static.sh
+|4,51,44,27,1697379976,"~/0-setup_web_static.sh"
 
 # Jumplist (newest first):
+-'  23  14  ~/1-pack_web_static.py
+|4,39,23,14,1697384113,"~/1-pack_web_static.py"
+-'  1  0  ~/1-pack_web_static.py
+|4,39,1,0,1697384068,"~/1-pack_web_static.py"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697383630,"~/0-setup_web_static.sh"
 -'  1  0  ~/0-setup_web_static.sh
 |4,39,1,0,1697383630,"~/0-setup_web_static.sh"
 -'  44  27  ~/0-setup_web_static.sh
 |4,39,44,27,1697383587,"~/0-setup_web_static.sh"
 -'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697383587,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
 |4,39,44,27,1697379976,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697379976,"~/0-setup_web_static.sh"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697379921,"~/0-setup_web_static.sh"
 -'  1  0  ~/0-setup_web_static.sh
 |4,39,1,0,1697379921,"~/0-setup_web_static.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/1-pack_web_static.py
+	*	1697384112	0
+	"	23	14
+	^	23	15
+	.	23	14
+	+	23	14
 
 > ~/0-setup_web_static.sh
 	*	1697383629	0
