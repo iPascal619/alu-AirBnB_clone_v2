@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1697385623,,"wq"
+|2,0,1697387481,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,44 @@
 # Registers:
 
 # File marks:
-'0  36  19  ~/2-do_deploy_web_static.py
-|4,48,36,19,1697385623,"~/2-do_deploy_web_static.py"
-'1  23  14  ~/1-pack_web_static.py
-|4,49,23,14,1697384113,"~/1-pack_web_static.py"
-'2  1  0  ~/0-setup_web_static.sh
-|4,50,1,0,1697383630,"~/0-setup_web_static.sh"
-'3  44  27  ~/0-setup_web_static.sh
-|4,51,44,27,1697379976,"~/0-setup_web_static.sh"
+'0  15  46  ~/3-deploy_web_static.py
+|4,48,15,46,1697387481,"~/3-deploy_web_static.py"
+'1  36  19  ~/2-do_deploy_web_static.py
+|4,49,36,19,1697385623,"~/2-do_deploy_web_static.py"
+'2  23  14  ~/1-pack_web_static.py
+|4,50,23,14,1697384113,"~/1-pack_web_static.py"
+'3  1  0  ~/0-setup_web_static.sh
+|4,51,1,0,1697383630,"~/0-setup_web_static.sh"
 '4  44  27  ~/0-setup_web_static.sh
 |4,52,44,27,1697379976,"~/0-setup_web_static.sh"
+'5  44  27  ~/0-setup_web_static.sh
+|4,53,44,27,1697379976,"~/0-setup_web_static.sh"
 
 # Jumplist (newest first):
+-'  15  46  ~/3-deploy_web_static.py
+|4,39,15,46,1697387481,"~/3-deploy_web_static.py"
+-'  1  0  ~/3-deploy_web_static.py
+|4,39,1,0,1697387375,"~/3-deploy_web_static.py"
 -'  36  19  ~/2-do_deploy_web_static.py
 |4,39,36,19,1697385623,"~/2-do_deploy_web_static.py"
+-'  36  19  ~/2-do_deploy_web_static.py
+|4,39,36,19,1697385623,"~/2-do_deploy_web_static.py"
+-'  1  0  ~/2-do_deploy_web_static.py
+|4,39,1,0,1697385474,"~/2-do_deploy_web_static.py"
 -'  1  0  ~/2-do_deploy_web_static.py
 |4,39,1,0,1697385474,"~/2-do_deploy_web_static.py"
 -'  23  14  ~/1-pack_web_static.py
 |4,39,23,14,1697384113,"~/1-pack_web_static.py"
 -'  23  14  ~/1-pack_web_static.py
 |4,39,23,14,1697384113,"~/1-pack_web_static.py"
+-'  23  14  ~/1-pack_web_static.py
+|4,39,23,14,1697384113,"~/1-pack_web_static.py"
+-'  23  14  ~/1-pack_web_static.py
+|4,39,23,14,1697384113,"~/1-pack_web_static.py"
+-'  1  0  ~/1-pack_web_static.py
+|4,39,1,0,1697384068,"~/1-pack_web_static.py"
+-'  1  0  ~/1-pack_web_static.py
+|4,39,1,0,1697384068,"~/1-pack_web_static.py"
 -'  1  0  ~/1-pack_web_static.py
 |4,39,1,0,1697384068,"~/1-pack_web_static.py"
 -'  1  0  ~/1-pack_web_static.py
@@ -57,6 +75,22 @@
 |4,39,1,0,1697383630,"~/0-setup_web_static.sh"
 -'  1  0  ~/0-setup_web_static.sh
 |4,39,1,0,1697383630,"~/0-setup_web_static.sh"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697383630,"~/0-setup_web_static.sh"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697383630,"~/0-setup_web_static.sh"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697383630,"~/0-setup_web_static.sh"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697383630,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697383587,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697383587,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697383587,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697383587,"~/0-setup_web_static.sh"
 -'  44  27  ~/0-setup_web_static.sh
 |4,39,44,27,1697383587,"~/0-setup_web_static.sh"
 -'  44  27  ~/0-setup_web_static.sh
@@ -73,6 +107,22 @@
 |4,39,44,27,1697379976,"~/0-setup_web_static.sh"
 -'  44  27  ~/0-setup_web_static.sh
 |4,39,44,27,1697379976,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697379976,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697379976,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697379976,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697379976,"~/0-setup_web_static.sh"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697379921,"~/0-setup_web_static.sh"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697379921,"~/0-setup_web_static.sh"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697379921,"~/0-setup_web_static.sh"
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697379921,"~/0-setup_web_static.sh"
 -'  1  0  ~/0-setup_web_static.sh
 |4,39,1,0,1697379921,"~/0-setup_web_static.sh"
 -'  1  0  ~/0-setup_web_static.sh
@@ -83,6 +133,14 @@
 |4,39,1,0,1697379921,"~/0-setup_web_static.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/3-deploy_web_static.py
+	*	1697387480	0
+	"	15	46
+	^	15	47
+	.	9	45
+	+	74	25
+	+	9	45
 
 > ~/2-do_deploy_web_static.py
 	*	1697385604	0
