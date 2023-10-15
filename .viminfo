@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1697379976,,"wq"
+|2,0,1697383630,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,10 +25,18 @@
 # Registers:
 
 # File marks:
-'0  44  27  ~/0-setup_web_static.sh
-|4,48,44,27,1697379976,"~/0-setup_web_static.sh"
+'0  1  0  ~/0-setup_web_static.sh
+|4,48,1,0,1697383630,"~/0-setup_web_static.sh"
+'1  44  27  ~/0-setup_web_static.sh
+|4,49,44,27,1697379976,"~/0-setup_web_static.sh"
+'2  44  27  ~/0-setup_web_static.sh
+|4,50,44,27,1697379976,"~/0-setup_web_static.sh"
 
 # Jumplist (newest first):
+-'  1  0  ~/0-setup_web_static.sh
+|4,39,1,0,1697383630,"~/0-setup_web_static.sh"
+-'  44  27  ~/0-setup_web_static.sh
+|4,39,44,27,1697383587,"~/0-setup_web_static.sh"
 -'  44  27  ~/0-setup_web_static.sh
 |4,39,44,27,1697379976,"~/0-setup_web_static.sh"
 -'  1  0  ~/0-setup_web_static.sh
@@ -37,8 +45,9 @@
 # History of marks within files (newest to oldest):
 
 > ~/0-setup_web_static.sh
-	*	1697379973	0
-	"	44	27
-	^	44	28
-	.	44	27
+	*	1697383629	0
+	"	1	0
+	^	1	1
+	.	1	0
 	+	44	27
+	+	1	0
